@@ -6,6 +6,11 @@ hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "358eb8d2ca3622cbbefa10e9251b462b0854f7ce91e0ce2a85c7a9028696719b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "2797e01389385c0ea863f7eec99f89d117c8d2c7a9cf1d1e099a3c65481331cf"
 metafile = true
@@ -56,6 +61,11 @@ hash = "6da8dd62f4f281ff1813b455fa51b334fc63f5d95f5a46b1d9c62e599582bf6e"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "df8c8eb2779cc3d279a8099eb06549b74bf1341783da3e6bb0ab1341147c6154"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "32b33928e1c8dd12359fe6305c342e9a5209008b45f7302d77769a47843a0c9d"
 metafile = true
@@ -98,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e4050c6052ef4c4f50f7b49faee15fcbbd13ebe28fdc61e1a4056d69ac4a16d5"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "3e3183f883ec75c9a325a464369217a2db3e7a988f782371c76f747688e89be1"
 metafile = true
 
 [[files]]
