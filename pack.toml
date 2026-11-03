@@ -1,0 +1,16 @@
+name = "Aldea Viva"
+author = "Jeferson"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a3bcd461f334782dae7d7999a1cc5901a3f52e8284b1f53ee73b584205ac8117"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.126"
+
+[options]
+acceptable-game-versions = ["26.1", "26.1.1"]

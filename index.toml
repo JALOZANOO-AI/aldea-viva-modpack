@@ -1,0 +1,166 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "2797e01389385c0ea863f7eec99f89d117c8d2c7a9cf1d1e099a3c65481331cf"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "f2420bfbb87f2aab135fc2cb100521ae7f69e8794f2059878fb652a5b1f1c84e"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "8c0019be01b93bff70f52290ea68f05e27266fda4ef2978fab17a1ad6b47973b"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "509cb19b3ae4d030b20fbe1722ed9294fc98b5c6034f45343e25f6df90a5ea4a"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "279082925932624ed1e0173c7df8e6e0c7b177e2f1826f5f947790fb0ac1702a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9c6f1d5dfbf481632b67ec2ecaaf6e935172d46d5dbbf2861ffb274410365536"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "e52886e60c70a18a8a70f3e7781c1716498f4b4847df41b293d06de2cd53291d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "0c84660178b57e01f1239cee0093298d83909fef822d69af320e2e83c66cf610"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "6da8dd62f4f281ff1813b455fa51b334fc63f5d95f5a46b1d9c62e599582bf6e"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "32b33928e1c8dd12359fe6305c342e9a5209008b45f7302d77769a47843a0c9d"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c8679fb2e8557214c8c04177712832443c69fa44b791a319c51f7eff39006e17"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ca3c698fd85c4d6c467a146cd4a076bc82d79e6b83d640487cd1aa92ba448dec"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e0539d8664fafeee410f6e660a255ce5ca726d8012c6638fc09bca9159dd7fb6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "adb2963a56af6b46da4c101abbc3225e4c0ec82b17f1cc1fd543765fb9ebe631"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "36c1fd3cee058f1e2fbceb2f45f30be2b763a74b73125dfa408d4b8bde410666"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "eaf9034f468c07cfc2692e5de9a6fddd2fffd88f55829a302973aca48cae1e81"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "5b78147777f36f26c7362a508f55dbfd0674336c0fc1ca80294407c02dcee964"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e4050c6052ef4c4f50f7b49faee15fcbbd13ebe28fdc61e1a4056d69ac4a16d5"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "2959f9140c59305fc6d394c10afcdc1fb38f08cd8bd500900ca40eb4100b06d2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1fe867065776dfa5b419e8024b8bbf2b0fc338ff09603ab47d39232930a934f2"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "28ac0a3f463db9b3e3809080dada7e757cbbbb99c75ac99be509ad4d5c4268fa"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "65db89781c0d3b4a14edfe3bcc523c41fa6930b3865efd5697ed4d8a85237a0a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "3f24c7840e4bbc9532be95c65eef9931f90a302f26f24506ff99b7317b912a73"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "409d1f1e30b25f6bacd0d7ae39ab7ce91cf5207c7b6e47b110966a2342f01848"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "8bf160c2cfbed1ea6f798a050df18d98eac5d3e84df6986d43bc98c96b43a373"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e8954176027bb5723438c18178740386f78add1d12a439e66136f3b6b67525e5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4cf94a63c02fe625475201c4da9de6a43381af25254e850f9848c77f5a9321d0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "db43028e075ddd03cc71424b19586912e47f9a7779e0a599d440906507621428"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "4d02465fd51e80a1181f66c5342799ba3f67afc598f16a02e58e1352a5d6c0e9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "eea1c85fbdaf262f39b083ce70c207ceeb7ff55098c4db6b8d6b653c0d71309f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "1b6725123447d56930bc03d29defc34659a7d20dc61cf2a834836fbed716efbe"
+metafile = true

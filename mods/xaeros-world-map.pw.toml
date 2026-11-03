@@ -1,0 +1,13 @@
+name = "Xaero's World Map"
+filename = "xaeroworldmap-neoforge-26.1.2-1.47.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/l2MPAglg/xaeroworldmap-neoforge-26.1.2-1.47.2.jar"
+hash-format = "sha512"
+hash = "a625f7e7a1d8e72b48352190488b711e3e92067d787e668f5e03ac74bb551025283edf76509dc86ec1fc9d48a30ce1b104c3dbaada277e5827c3584bcb7b44dd"
+
+[update]
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "l2MPAglg"
