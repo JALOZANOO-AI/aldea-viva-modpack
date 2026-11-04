@@ -21,6 +21,11 @@ hash = "f2420bfbb87f2aab135fc2cb100521ae7f69e8794f2059878fb652a5b1f1c84e"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "c72d85b514ce489f1f8e3b362cdedf31a10d178131932785c6b836b3e80bd72d"
+metafile = true
+
+[[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
 hash = "8c0019be01b93bff70f52290ea68f05e27266fda4ef2978fab17a1ad6b47973b"
 metafile = true
